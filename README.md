@@ -1,5 +1,5 @@
 # CatchTales
-
+## 🛸 다운로드 링크
 [CatchTales 다운로드 설치 링크](https://drive.google.com/file/d/1RipQYNKO0AaYgZCMMg01HSavgUlbLJUr/view)
 
 ## 👑 우수상 2등 
@@ -12,14 +12,17 @@
 
 <br/>
 
-## 프로젝트 진행 기간 📅
+## 📅 프로젝트 진행 기간 
 
 **2학기 특화 프로젝트**  
 23.08.14(월) ~ 23.10.06(금)
-
+## 🎬 프로젝트 UCC 및 시연영상
+[CatchTales UCC](https://www.youtube.com/watch?v=BVZBZWkU-48)
+<br/>
+[CatchTales 시연 영상](https://www.youtube.com/watch?v=oBLyQdL7Xeo)
 <br/>
 
-## 팀원 👥
+## 😎 팀원 
 
 | 이름     | 역할                                    |
 | -------- | --------------------------------------- |
@@ -32,7 +35,7 @@
 
 <br/>
 
-## 기술 스택
+## 🔥 기술 스택
 
 - Unity
 - Photon
