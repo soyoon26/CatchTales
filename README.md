@@ -1,5 +1,5 @@
 # CatchTales
-![image](https://github.com/soyoon26/CatchTales/assets/122415737/1651b66a-5f1f-4266-8747-201d73c0c501)
+
 
 ## 🏷 프로젝트 소개
 
@@ -11,7 +11,9 @@
 
 
 ## 🛸 다운로드 링크
-[CatchTales 다운로드 설치 링크](https://drive.google.com/file/d/1RipQYNKO0AaYgZCMMg01HSavgUlbLJUr/view)
+[CatchTales 발표 자료 다운로드 링크](https://drive.google.com/file/d/1iVGUUF6JA7gK2LHvNPs8h-ZVb2OTsd5q/view?usp=drive_link)
+
+[CatchTales 게임 다운로드 설치 링크](https://drive.google.com/file/d/1RipQYNKO0AaYgZCMMg01HSavgUlbLJUr/view)
 
 ## ✨ 기획의도
 ![image](https://github.com/woodong27/woodong27/assets/122415763/5c0ab567-1905-4016-9238-4989d3975e9a)
@@ -92,7 +94,7 @@
 | 권선근   | 멀티 환경 구축 & 캐릭터 스크립트 작성   |
 | 김남우 👑 | 맵 디자인 & 스크립트 작성               |
 | 김창혁   | 맵 디자인 & 스크립트 작성               |
-| 박소윤   | 맵/로고 디자인 & 스크립트 작성               |
+| 박소윤   | 맵/로고/Tutorial 디자인 & 스크립트 작성               |
 | 신세영   | 맵/캐릭터 디자인 & 스크립트 작성        |
 | 최동우   | 캐릭터 간 상호작용 구현 & 스크립트 작성 |
 
