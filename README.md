@@ -12,7 +12,7 @@
 
 
 ## 🛸 다운로드 링크
-[CatchTales 발표 자료 다운로드 링크](https://drive.google.com/file/d/1iVGUUF6JA7gK2LHvNPs8h-ZVb2OTsd5q/view?usp=drive_link)
+
 
 [CatchTales 게임 다운로드 설치 링크](https://drive.google.com/file/d/1RipQYNKO0AaYgZCMMg01HSavgUlbLJUr/view)
 
